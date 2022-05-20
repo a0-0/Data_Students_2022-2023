@@ -1,0 +1,20 @@
+body{
+  background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.main-section{
+margin: auto;
+ width: 25% !important;
+}
+
+.modal-content{
+  margin: 50% auto;
+  padding: 30px;
+  background: #3D035D !important;
+}
+
+
+.btn{
+  background: #CD1C6C  !important;
+  border: none !important;
+}
